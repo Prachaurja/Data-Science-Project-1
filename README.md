@@ -1,3 +1,3 @@
-# Data-Science-Project-1
+# Data-Science-Project-Lab-Practices
 
 My first edit!
